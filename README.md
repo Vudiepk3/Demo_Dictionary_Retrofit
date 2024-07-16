@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/564990ee-d749-4bf0-b200-044f44dd7f93
 **Installation and Running**
 
 1.Clone the repository:
-git clone https://github.com/yourusername/demo_dictionary_retrofit.git
+git clone https://github.com/Vudiepk3/Demo_Dictionary_Retrofit.git
 
 2.Open the project with Android Studio.
 
